@@ -1,5 +1,5 @@
 # Muzero-GDM_Pseudo_Code
-#### Description : A Notebook that implements the Pseudocode from the original Muzero paper
+#### Description : A Notebook that implements the Pseudocode from the original Muzero paper (still a WIP : hope to complete it soon)
 ---
 ### Citations, Refferences and Resources : 
 #### 1. Muzero Paper :
